@@ -10,7 +10,7 @@ markup = telegram.ReplyKeyboardMarkup(
     keyboard=[['Зарегистрироваться']]
 )
 
-s = 's.txt'
+
 
 def registration():
     global s
